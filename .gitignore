@@ -1,0 +1,4 @@
+/release/
+/debug/
+*.obj
+*.o
